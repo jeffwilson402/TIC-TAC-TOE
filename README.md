@@ -6,7 +6,7 @@ Welcome to the TIC-TAC-TOE Game - a classic tic-tac-toe experience game.
 
 - **Functionality:** Play tic-tac-toe against AI (Artificial Intelligence) single-player mode.
 - **Tech Stack:** `HTML`, `CSS`, `JavaScript `, `Bootstrap`, `Font Awesome`, `jQuery`, `AI` `(minimax algorithm for computer opponent)`
-- **Author:** [@shreyamalogi](https://github.com/jeffwilson402)
+- **Author:** https://github.com/jeffwilson402
 - **Year of Creation:** 2023
 ---
 
