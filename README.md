@@ -96,7 +96,7 @@ This magical creation is licensed under the spell of the MIT License. Share the 
 
 MIT License
 
-Copyright (c) 2020 Shreya Malogi
+Copyright (c) 2020 Jeffrey Wilson
 
 Stay Enchanted! 🌍💙
 
